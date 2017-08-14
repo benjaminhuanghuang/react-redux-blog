@@ -15,4 +15,8 @@
 
   react-router
 
+  redux-promise
+
   Form
+
+  lodash

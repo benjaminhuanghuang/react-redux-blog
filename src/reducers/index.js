@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
 //
-import WeatherReducer from './WeatherReducer';
+import PostsReducer from './PostsReducer';
 
 // maps state and reducer
 const reducers = combineReducers({
-  weather: WeatherReducer,
+  posts: PostsReducer,
 });
 
 export default reducers; 
