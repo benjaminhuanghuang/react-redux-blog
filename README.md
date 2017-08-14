@@ -17,6 +17,6 @@
 
   redux-promise
 
-  Form
+  redux-form
 
   lodash
